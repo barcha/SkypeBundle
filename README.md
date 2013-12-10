@@ -1,5 +1,5 @@
 SkypeBundle
 ===========
 
-a Symfony Bundle for Skype integration 
+A Symfony Bundle for Skype API integration
 (not ready)
